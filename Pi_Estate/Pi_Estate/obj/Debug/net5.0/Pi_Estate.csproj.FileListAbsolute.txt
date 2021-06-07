@@ -1,0 +1,8 @@
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.AssemblyInfo.cs
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.MvcApplicationPartsAssemblyInfo.cache
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.RazorAssemblyInfo.cache
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.RazorAssemblyInfo.cs
+D:\Belgelerim\Karışık\SINAV\Pi_Estate\Pi_Estate\obj\Debug\net5.0\Pi_Estate.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Pi_Estate.Models.Ilan>
+  @{int i = 0;}
+@foreach (var item in Model)
+{
+          i++;
+         var c = 1;
+       var active = i == 1 ? "active" : "";
+<div class="item active">
+    @foreach (var rsm in ViewBag.imgs)
+    {
+        if (rsm.IlanId == item.IlanId)
+        {
+            if (@c == 1)
+            {
+                <a href="/Home/Detay/@item.IlanID"><img src="~/emlak_resim/@rsm.ResimName" alt="..." style="width:1150px; height:400px;" /></a>
+                c++;
+            }
+
+        }
+    }
+
+</div>
+}
